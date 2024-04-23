@@ -1,4 +1,6 @@
-This MVN project has been deployed on AWS using:
+MVN project with handler class implementing RequestStreamHandler interface
+
+Deployed on AWS using:
 - dynamoDB
 - IAM dynamoDB full-access and LambdaFn execution role
 - Lambda function
