@@ -1,4 +1,4 @@
-This MVN projects has been deployed on AWS using:
+This MVN project has been deployed on AWS using:
 - dynamoDB
 - Lambda function
 - Api Gateway endpoint
